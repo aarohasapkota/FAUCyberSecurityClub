@@ -12,4 +12,4 @@
    * nmap --script malware
    * nmap --script vuln
 * whatweb
-* Telehac
+* Telehack.com
