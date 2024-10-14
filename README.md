@@ -1,3 +1,8 @@
+ 
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/4f187899-bf6a-4596-91cb-57fc678c38e8" alt="description" width="300" />
+</div>
+
 <h1 align="center">Hi 👋, Welcome to FAU CyberSecurity Club's Github</h1>
 <h3 align="center">This is a central hub for all the resources, scripts, and materials related to our club's activities. Whether you are a member of the club or just someone interested in cybersecurity, feel free to explore and make use of the materials provided here.</h3>
 
