@@ -19,17 +19,11 @@ The Learn folder is designed to be a self-guided resource for learning various c
     * Ethical Hacking
     * Cryptography
     * Web Application Security
-#### 🚀 How to Get Started
-  Explore the Learn Folder: Start with the basics and work your way up. Each topic is structured to build on the previous one.
-  Watch Meeting Recordings: Catch up on missed sessions or review complex topics.
-  Use the Slides: Refer to our slides to follow along with our teachings or refresh your memory on key concepts.
-### 📢 Contributions
-  We encourage all members to contribute to this repository. Whether it’s a new script, an update to existing materials, or even just a        suggestion, your input is valuable!
+## 🚀 How to Get Started
+  
+  1. **Explore the Learn Folder:** Start with the basics and work your way up. Each topic is structured to build on the previous one.  
+  3. **Watch Meeting Recordings:** Catch up on missed sessions or review complex topics.  
+  4. **Use the Slides:** Refer to our slides to follow along with our teachings or refresh your memory on key concepts.
 
-### How to Contribute:
-  Fork this repository.
-  Create a branch for your feature or fix.
-  Commit your changes with a clear description.
-  Submit a pull request for review.
-### 📧 Contact Us
+## 📧 Contact Us
   For questions, suggestions, or to report an issue, feel free to reach out via our Discord Server.
